@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This code book describes the variables, data transformations, and structure of the final tidy dataset `tidy_dataset.txt` produced by `run_analysis.R`.
+This code book describes the variables, data transformations, and structure of the final tidy dataset `tidy_data` produced by `run_analysis.R`.
 
 ## Source Data Description
 
