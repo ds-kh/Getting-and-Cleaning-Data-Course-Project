@@ -65,4 +65,4 @@ All measurement variable names are:
 
 ## Final Output
 
-The final tidy dataset is (`tidy_data`) with the average of each variable for each activity and each subject.
+The final tidy dataset is (`tidy_data`) with the average of each variable for each activity per subject.
